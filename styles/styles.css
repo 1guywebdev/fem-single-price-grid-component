@@ -24,7 +24,7 @@ body {
 
 }
 .container-section1, .container-section2, .container-section3 {
-  padding: 1em;
+  padding: 2em;
 }
 .container-section1 {
   background-color: var(--light-gray);
